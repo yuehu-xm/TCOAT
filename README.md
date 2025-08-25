@@ -2,7 +2,6 @@
 
 ### Temporal Collaborative Attention for Wind Power Forecasting [[Paper](https://doi.org/10.1016/j.apenergy.2023.122502)]
 
----
 
 ## News
 
@@ -12,7 +11,6 @@ The implementation details can be found [here](https://github.com/freepose/pyFAS
 We sincerely thank [Zhijin Wang](https://github.com/freepose) and colleagues for their valuable support during the
 integration process.
 
----
 
 ## Abstract
 
@@ -34,27 +32,23 @@ Moreover, we conduct a generality study on an additional real-world dataset from
 power characteristics. The results show that TCOAT can achieve comparable or better performance than the
 state-of-the-art methods, confirming the generalization ability of TCOAT.
 
----
 
 ## Model Architecture
 
 ![Model Architecture](model_architecture.png)
 
----
 
 ## Requirements
 
 - Python 3.10+
 - PyTorch 2.0.0+
 
----
 
 ## Dataset
 
 This study uses two datasets of wind power generation data and associated meteorological data with different
 characteristics and challenges.
 
----
 
 ## Experimental Setup
 
@@ -63,13 +57,11 @@ Min–max scaling was applied to standardized features to normalize values withi
 The dataset was partitioned chronologically at a 4:1 ratio into training and testing subsets, ensuring sufficient
 training data while preserving temporal continuity.
 
----
 
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me at [yuehu.xm@gmail.com](yuehu.xm@gmail.com).
 
----
 
 ## Citation
 
