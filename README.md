@@ -6,9 +6,11 @@
 
 ### News
 
-🎉🎉🎉 **TCOAT** model has been integrated into [pyFAST: Flexible, Advanced Framework for Multi-source and Sparse Time Series Analysis in PyTorch](https://github.com/freepose/pyFAST).
-The implementation details can be found [here](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py). 
-We sincerely thank [Zhijin Wang](https://github.com/freepose) and colleagues for their valuable support during the integration process.
+🎉🎉🎉 **TCOAT** model has been integrated
+into [pyFAST: Flexible, Advanced Framework for Multi-source and Sparse Time Series Analysis in PyTorch](https://github.com/freepose/pyFAST).
+The implementation details can be found [here](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py).
+We sincerely thank [Zhijin Wang](https://github.com/freepose) and colleagues for their valuable support during the
+integration process.
 
 ---
 
@@ -71,16 +73,23 @@ If you have any questions or suggestions, please feel free to contact me at [yue
 
 ### Citation
 
-If you find this work useful in your research, please use the following BibTeX entry for citation.
+If you find this work useful in your research, please use the following citation formats:
 
-```markdown
+**BibTeX:**
+
+```bibtex
 @article{art/apen2024/357Hu,
-    author     = {Hu, Yue and Liu, Hanjing and Wu, Senzhen and Zhao, Yuan and Wang, Zhijin and Liu, Xiufeng},
-    title      = {Temporal Collaborative Attention for Wind Power Forecasting},
-    journal    = {Applied Energy},
-    volume     = {357},
-    pages      = {122502},
-    year       = {2024},
-    doi        = {10.1016/j.apenergy.2023.122502},
+    author = {Hu, Yue and Liu, Hanjing and Wu, Senzhen and Zhao, Yuan and Wang, Zhijin and Liu, Xiufeng},
+    title = {Temporal Collaborative Attention for Wind Power Forecasting},
+    journal = {Applied Energy},
+    volume = {357},
+    pages = {122502},
+    year = {2024},
+    doi = {10.1016/j.apenergy.2023.122502},
 }
 ```
+
+**APA/Plain Text:**
+
+Yue Hu, Hanjing Liu, Senzhen Wu, Yuan Zhao, Zhijin Wang, and Xiufeng Liu. 2024. Temporal Collaborative Attention for
+Wind Power Forecasting. Applied Energy 357 (2024), 122502. https://doi.org/10.1016/j.apenergy.2023.122502
