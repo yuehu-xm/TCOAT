@@ -99,7 +99,7 @@ class TCOAT(nn.Module):
         if self.residual_window_size > 0:
             z = x[:, -self.residual_window_size:, :]  # -> [batch_size, residual_window_size, input_vars]
             res = self.residual(z)  # -> [batch_size, output_window_size, input_vars]
-            # TODO: HuYue
+
             if self.input_vars != self.output_vars:
                 res = self.residual_fc(res)  # -> [batch_size, output_window_size, output_vars]
             res *= self.residual_ratio  # -> [batch_size, output_window_size, output_vars]
