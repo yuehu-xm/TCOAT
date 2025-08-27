@@ -1,4 +1,4 @@
-# TCOAT for Wind Power Forecasting
+# TCOAT for Time series Forecasting
 
 ### Temporal Collaborative Attention for Wind Power Forecasting [[Paper](https://doi.org/10.1016/j.apenergy.2023.122502)]
 
