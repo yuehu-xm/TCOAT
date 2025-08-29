@@ -2,7 +2,6 @@
   <h2><b> (APEN'2024) Temporal Collaborative Attention for Wind Power Forecasting </b></h2>
 </div>
 
-
 <div align="center">
 
 **[<a href="https://doi.org/10.1016/j.apenergy.2023.122502">Doi</a>]**
@@ -11,11 +10,7 @@
 
 </div>
 
-
-
 The complete implementation of the **TCOAT** model is provided in [**model_tcoat.py**](model_tcoat.py) within this repository.
-
-
 
 ## Updates
 
@@ -27,14 +22,11 @@ MTS module.
 
 ![Model Architecture](model_architecture.png)
 
-## Requirements
+### Requirements
 
 - Python 3.10+
 - PyTorch 2.0.0+
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [yuehu.xm@gmail.com](mailto:yuehu.xm@gmail.com).
 
 ## Citation
 
@@ -60,3 +52,13 @@ If you find this work useful in your research, please use the following citation
 Yue Hu, Hanjing Liu, Senzhen Wu, Yuan Zhao, Zhijin Wang, and Xiufeng Liu. 2024. Temporal Collaborative Attention for
 Wind Power Forecasting. Applied Energy, 357, 122502. https://doi.org/10.1016/j.apenergy.2023.122502
 ```
+
+## Acknowledgement
+
+We appreciate the following GitHub repos a lot for their valuable code and efforts.
+- pyFAST (https://github.com/freepose/pyFAST)
+- CTRL (https://github.com/yuehu-xm/CTRL)
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [yuehu.xm@gmail.com](mailto:yuehu.xm@gmail.com).
