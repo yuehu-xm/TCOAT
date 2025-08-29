@@ -1,4 +1,7 @@
-# (APEN'2024) Temporal Collaborative Attention for Wind Power Forecasting
+<div align="center">
+  <h2><b> (APEN'2024) Temporal Collaborative Attention for Wind Power Forecasting </b></h2>
+</div>
+
 
 ## TCOAT (Temporal Collaborative Attention): Time Series Forecasting Model
 
