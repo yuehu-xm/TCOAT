@@ -5,17 +5,18 @@
 
 <div align="center">
 
-[//]: # (**[<a href="https://www.sciencedirect.com/science/article/pii/S0306261923018664">ScienceDirect</a>]**)
 **[<a href="https://doi.org/10.1016/j.apenergy.2023.122502">Doi</a>]**
 **[<a href="apen2024-Hu%20(Temporal%20collaborative%20attention%20for%20wind%20power%20forecasting).pdf">PDF</a>]**
 **[<a href="https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ">Google Scholar</a>]**
 
 </div>
 
+---
 
+> The complete implementation of the **TCOAT** model is provided in [**model_tcoat.py**](model_tcoat.py) within this
+> repository.
 
-The complete implementation of the **TCOAT** model is provided in [**model_tcoat.py**](model_tcoat.py) within this
-repository.
+---
 
 ## Updates
 
