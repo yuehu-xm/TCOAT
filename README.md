@@ -8,17 +8,18 @@
 [[Code](https://github.com/yuehu-xm/TCOAT-TimeSeriseForecasting)]
 [[Google Scholar](https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ)]
 
-## Model Architecture
-
-![Model Architecture](model_architecture.png)
-
-The implementation of the TCOAT model can be found in the [`model_tcoat.py (Click here)`](model_tcoat.py) file in this repository.
+The implementation of the **TCOAT** model can be found in the [**`model_tcoat.py (Click here)`**](model_tcoat.py) file in this
+repository.
 
 ## News
 
 🎉🎉🎉 **TCOAT** model has been integrated
 into [pyFAST: Flexible, Advanced Framework for Multi-source and Sparse Time Series Analysis in PyTorch](https://github.com/freepose/pyFAST).
 The implementation details can be found [here](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py).
+
+## Model Architecture
+
+![Model Architecture](model_architecture.png)
 
 ## Requirements
 
