@@ -16,7 +16,7 @@ repository.
 into [pyFAST: Flexible, Advanced Framework for Multi-source and Sparse Time Series Analysis in PyTorch](https://github.com/freepose/pyFAST).
 The implementation details can be found [here](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py).
 
-## Model Architecture
+## Overall Architecture
 
 ![Model Architecture](model_architecture.png)
 
