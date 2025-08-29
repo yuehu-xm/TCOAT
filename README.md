@@ -5,8 +5,8 @@
 
 <div align="center">
 
+[//]: # (**[<a href="https://www.sciencedirect.com/science/article/pii/S0306261923018664">ScienceDirect</a>]**)
 **[<a href="https://doi.org/10.1016/j.apenergy.2023.122502">Doi</a>]**
-**[<a href="https://www.sciencedirect.com/science/article/pii/S0306261923018664">ScienceDirect</a>]**
 **[<a href="apen2024-Hu%20(Temporal%20collaborative%20attention%20for%20wind%20power%20forecasting).pdf">PDF</a>]**
 **[<a href="https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ">Google Scholar</a>]**
 
@@ -24,8 +24,7 @@ repository.
 
 🚩 **News** (2025.08): TCOAT has been included in [[**pyFAST**]](https://github.com/freepose/pyFAST). For implementation
 details, see the [**TCOAT model code**](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py) in pyFAST's
-MTS
-module.
+MTS module.
 
 ## Overall Architecture
 
