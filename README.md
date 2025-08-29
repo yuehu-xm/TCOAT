@@ -5,7 +5,6 @@
 [[Doi](https://doi.org/10.1016/j.apenergy.2023.122502)]
 [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0306261923018664)]
 [[PDF](apen2024-Hu%20(Temporal%20collaborative%20attention%20for%20wind%20power%20forecasting).pdf)]
-[[Code](https://github.com/yuehu-xm/TCOAT-TimeSeriseForecasting)]
 [[Google Scholar](https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ)]
 
 The implementation of the **TCOAT** model can be found in the [**`model_tcoat.py (Click here)`**](model_tcoat.py) file in this
