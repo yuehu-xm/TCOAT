@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b> (APEN'2024) Temporal Collaborative Attention for Wind Power Forecasting </b></h1>
+  <h2><b> (APEN'2024) Temporal Collaborative Attention for Wind Power Forecasting </b></h2>
 </div>
 
 
