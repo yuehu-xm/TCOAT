@@ -13,12 +13,9 @@
 </div>
 
 
----
 
 The complete implementation of the **TCOAT** model is provided in [**model_tcoat.py**](model_tcoat.py) within this
 repository.
-
----
 
 ## Updates
 
