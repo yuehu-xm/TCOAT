@@ -1,4 +1,4 @@
-# TCOAT for Time series Forecasting
+# TCOAT: Time Series Forecasting Model
 
 ### Temporal Collaborative Attention for Wind Power Forecasting 
 
